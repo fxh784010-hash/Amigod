@@ -1,0 +1,6 @@
+{
+  "name": "FX ENGINE LAB",
+  "description": "Real Engine Sound & Mechanics Simulator by FX HAMZA. Realistic procedural 4-stroke acoustics, firing orders, exhaust acoustics, and 3D mechanical dynamics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
